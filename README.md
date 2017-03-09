@@ -2,7 +2,7 @@
 
 
 
-Steps For UP and Running 
+Steps For Up and Running 
 
 Download echo server from https://developer.apple.com/library/content/samplecode/CocoaEcho/Introduction/Intro.html
 
